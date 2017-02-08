@@ -6,4 +6,12 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>betamorphosis-server</artifactId>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>com.wjx.betamorphosis</groupId>
+    	<artifactId>betamorphosis-common</artifactId>
+  	</dependency>
+  	
+  </dependencies>
 </project>
